@@ -1,0 +1,15 @@
+/node_modules
+/assets/mix-manifest.json
+/src
+composer.json
+composer.lock
+dbcheck.php
+package-lock.json
+package.json
+userpass.log
+webpack.mix.js
+/.idea
+/.vscode
+/.vagrant
+npm-debug.log
+yarn-error.log
