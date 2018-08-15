@@ -1,24 +1,29 @@
-<h1>New WritersBay App Installation</h1>
-<div class="alert alert-success text-center" role="alert">
-    <strong><i class="fa fa-check-circle"></i>Installation Completed Successfully!</strong>
-</div>
-<h2>Next Steps</h2>
-<p><strong>1. Delete the Install Folder</strong></p>
-<p>You should now delete the <em>/install/</em> directory from your web server. This is to disallow another installation which will overwrite your current installation.</p>
-<p><strong>2. Setup a Cron Job</strong></p>
-<p>You should setup a cron job in your control panel to run using the following command every 1 minute. If you do not set up cron jobs some features will not work eg emails, updates e.t.c. <a href="https://writersbayapp.com/tutorials/cron">How to set up cron jobs in cpanel</a>
-    <br />
-    <br />
-    <input type="text" value="/usr/local/bin/php <?php echo dirname(dirname(dirname(__FILE__))); ?>/writersbayapp/wbapp/artisan schedule:run >> /dev/null 2>&1" class="form-control" readonly>
-</p>
-<p><strong>4. Setting up WritersBay App</strong></p>
-<p>Setting up WritersBay App is very easy. Login to the dashboard with this details. <b>Email: help@writersbayapp.com</b> and <b>Password: secret</b>. These are default login details. Make sure you change them when you login. <a href="/settings">Change account details</a></p>
-<div class="alert alert-success text-center" role="alert">
-	There are lot of useful <strong>resources and tutorials</strong> on how to use WritersBay App find them at <a href="https://writersbayapp.com" target="_blank">https://writersbayapp.com/tutorials</a>.
-</div>
-<br>
-<p align="center">
-    <a href="/" id="btnGoToAdminArea" class="btn btn-default">Go to the Admin Area Now &raquo;</a>
-</p>
-<br>
-<h2>Thank you for choosing WritersBay App</h2>
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cP/zuZ5WPxLIXNfWwpJfBstZ8aAHx956SgB38cTmiXCcP0vRU2dyv6xUcXTjnfHDkTgBC0oUR
+52i43lFEru/Jmt3SWrqIxxBR2oOlXDXfhffmfK3VJTGzRB95irbeOmPSXTv3Vh62/CzNpBviNMfS
+JJ4u8Gp90WYhSFsmpg17VgiDOuRreoMPd6qqJPSobV3IHq94Us7/ZQ2e075gNbPOJymF4Qa+JL6k
+NxgDN/FxN2A6MBMwjxQ0d1Nin/vkF/taQd6ReEYPfjURXBDmllAoaT8ZLOsvq5rd9SvneHE/55bK
+NPTfSeSQBpUlgVfU5XMVhQz19n0T1KzdFU/ntLXxdAKXEh2hXtiMeLTJMvSM7ipQ+njuD/HHVJs3
+iBMDNkkEfqAiW8WrQ0Vt4vC1rj2hGU/pmzqQ72vN3pWKJNXTAJhQvC1ysVxQcGxmMrtue0yo6iHZ
+/xhY37GSgXFhBWjY7SAPu2Tt6nkcAkCGMUZcX8kuhe9THOCmlNRy/gS5q/RUhjSG1u0sR/Lm2MeZ
+BmsvsJRGBn1nMGnknMaQv3Qwb9Ocq8Y8TgsYuis4bkW4JFD3UtdmP5X9ncTYMe38PT1YPoP2sZyo
+QG+79of9wWJzKGR6XC2LCV3ziFSnyT/GiaoIPuF/znMst8CG9fiEOBf4/dUwagpsNAu1IGX7Flh0
+hfnxWwLyOrQ2oFA4jux3PMirRxYt6Ar3Ac7z7Usy2/80ELjIQbJyzPnodhBMdzybOGyJIH7bTcaf
+RzMaXm8Pm5sPxTJUJxHnivJBwa97nVDcwxyZPOHDaJfI7+sbRXc3JEu/u4qiaSNFmfo/i8an0ryJ
+f0Y9oVWbCGO3UKV+Z1zUwnTsqiGDpchgeX2M0ukztFTm53B+b15kxO41nxpKRsKOQZWjd55LoHRp
+Ltdb0SlAYj6Jzy5a0DNxN1IrQGPMjWtV+wrMBG2TSwODK5gAZo0X24xXhIBHKrQDYluSxrlUFn2K
+7JgWICJIjL/CCes7PtaZu/lLp6zMsEc1fgOWh0Qa2FJ2BOOuGx7eD22/+6r3SBPiRFCNxEvLMqAb
+IG/LKG+TNAjm8en/4Hnx5YHxmJ9VIuaUtOI/SMiFI9HQa1MznmT4SPgE1vAZtHu6a9u/8mzj620z
+o9iRnR8j0RE2zOWL30iV8iQ/W1+bjZOrp9avu9DFj/RDg7ZQ+eMkz5cOrCj4aZfF3X5mFVf1q0ln
+ryUWJ/S7oj6cT130eJft07j4bjOboYE67NaeKlVFt7mCrHGN/deFStdYzRrlXZKPTMotQXJijnXP
+S1Memg6mRjoKLvd7337N+22VgGzbdWFcb1uSEwtNX5mE9+wmKAKYuqM19Jwk9ElKZVJ5xeFW5OEa
+UvLPVQB2K/zbuyiKHwF8eGa/R5EgykjxyKZQRQfpkcI7pi/e2ScEyxoFt69QmK+U9rqQMcc9CuaW
+hIBsyWmdVImlCVCUhPQSfcZIgSp3iJ1HB5F8m2VBoVoERe3dEwSVduvcQWnWI6w1tLQh4OAynbAw
+wFPVAbhfjNmb/jphHEX7NdzlDki+4CtXCFpcL0zkkA7W9lBpV7OxGyWfbvy8XyI0Gev5IuzKIOS4
+Rb8TqM/VeXhv+JjoCAnlQexgYLfPkIS08maKCjYemdW2NT2wyons8n8wansEOL5JoDS+GPdHdZuP
+EYZqOULbVeEAYl9pDSVRkQtuBK3TjvzWOHj3rmgECCLRWASqYJNIzPCb7YreG9PRd8bylY3Pc5Rc
+2M15w+V99nEdrwuoauIZ0dyepaFBWdwv/8oAqnY9C4waHxkOlHRHuX5i42VYIC35/l6FafpNiXND
+toyYDmFvaXGU7iWZGNJxsXpB1sqiNjRKo6M40S1sL0glzEiVxhdwC2MdZhRAiQq5yZyE2xTsloTO
++39aiSP69hq=

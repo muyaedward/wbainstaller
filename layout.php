@@ -1,35 +1,29 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>WritersBay App install Process</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link href="assets/css/app.css" rel="stylesheet">
-    </head>
-    <body>
-        <div id="writersbayapp" class="wrapper">
-            <div class="version">Version <?php echo $currentversion; ?></div>
-            <div class="hidden-xs" style="margin:30px; width: 350px;">
-                <a href="/install"><img src="assets/img/logo.jpg" class="img-responsive" alt="WritersBay App- Academic Writing Software" border="0" /></a>
-            </div>
-                <?php if (!empty($errors)) { ?>
-                    <div class="alert alert-danger" role="alert" id="requirementsSummary">
-                        <strong><i class="fa fa-times"></i> The following errors occurred:</strong>
-                        <div style="font-size:0.9em;padding:2px;">
-                            <ol>
-                                <?php foreach ($errors as $error) { ?>
-                                    <li><?php echo $error; ?></li>
-                                <?php } ?>                            
-                            </ol>
-                        </div>
-                    </div>
-                <?php } ?>
-                <?php include($template); ?>            
-            <br>
-            <br>
-            <div align="center"><small><b>Copyright &copy; <?php echo date("Y"); ?> WritersBay App</b><br>
-                <a href="https://www.writersbayapp.com" target="_blank"><b>WritersBay App</b></a></small>
-            </div>
-        </div>
-    </body>
-    <script type="text/javascript" src="assets/js/app.js"></script>
-</html>
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPv67H+trRRp2y37IpilQ3rWMAaSoDazr2g38D2H6OaFB4pkvhtzRqHxteY/VsK2Y3T0P6VNi
+WDYvTLe+xfvgvMni9tcO97SftnpM4kc0I9Lg1iuYBOeTK+YgrF3f1j0k4dKdB1VngRuFnEvWDNQD
+A1xQZzQtjzak0DTB4DLWy3tTdC+zTj5FCT3XfmkpA2AHXwvCCzI3JAUjmsjNuMWSQV7KJiDvFi4K
+9nyScENvnR7oG+N3pwK2uvCWyLZVU3OzNikSJoRQNKbRuFDcVsGedvfNzusvq5rd9SvneHE/55bK
+NPUhSOprcRiFAVTKRHAVBQb16N5Nt4T/hnPW7b3lCvVuCTcM3+m9Jp4LAwFa8TZra0UDWf77yhDt
+k6bSR/jONL8nekFoLiIcSfY0jtJgCyWb5y5JFtQmoqJTwN2vDh553VUQN/ovRdSdD1GRYsTJDdMV
+N1BTG1KXDP3fGYMloz/engI5tvc/NOqVRjPThgtcsTWkRZ1rXyVrY8F11uf6xJZqDz6ABdnTL1ha
+K4A17x9dTkghsC8jkf4728OBBfSZj4vRsBnbWBHH33YjIPWoyVbB9miVnl0loMu1mjVY0FFUYOga
+NqJqG48QPJix3ytIbsHmJOCW//N4G4y213/vfyoMr2XHhEo4ah1o0zrnejvPGCIzLlKp8qfU8fgH
+zhg9xU7WtjlI8zNTxzoJEBG2pltjS86tUHCt1lwvavj98BgcUeHHVCZw0o+c3pypLfXaaCtz8bbY
+RPtpm1y906eQYNLIVZujKS+fgX2Z9WXIoJ0bTbjnfkiA6RqHpkzgECTv0Dj4A7A/g4G0RMVp8tV6
+GR4Brm12SWUCM/A1cisbEx9gNgvpImRtVJknuxy5trKV+oONfUSvclnUsH1U5jgdWhfW6tJydgWx
+nrgIcGVMUnbpT+JIfVo8xkl1lBkTWAPGGP8I8plnJCgQ8RoaH42KDaqJmOb4Fc+vYlSai19QGkIf
+gLqo2p/wc3t1oFlzTmEm8nl/X1TsdeWfMVb4QifO1rV/+yYLXGlKN9lwGbEy4kNHCgqbFa3fGGQg
+C988spsIjP/iXwfK4KgI5GZYvgP7I/fpxmQRUYCvpbVMWDQQPrfCT2SLZ2T9KRbU2QhH/4WmQNlw
+sy7GrLpoTuyvxw9+4ryi6YLBhuNn71J8V5D7lDdRhBe75PWrgFqsfET3osD/a+SJsS3YAp0hQ7BA
+piNkj+eQdflcRAMNuW/iInjRTSh3cJ/znTEIiwXULALM+62B7mUZYL80lBhq+lwDc5GoAHa32gTC
+Q2nYANKSZKk17fvsuOPFmSIdJ//E/cNq0SgyFIpLfqYPRquZEYjzMX9eP0+KUW+NQRBB/YatelBb
+PpQVG7RECIUXK5vnYSOHBx+JAEYAKnbuCa57lKcPut5htsUu5fWqBDUIsfVr4wuKzG25awyFbKJ1
+fBfT0P9rRybyAt4ImQs36uVN0VtEfTDCcOjLSajyBsFqt8phfxNPcK+xRVtfGheBJ8Kfm0K9EHv2
+0WNSiZe9EeRWWDr2Y9300wJOtB/4Gsnv49eEsKWTod8Ysak2Voz/XcKxkHON/t0b9uANVyymoN7Y
+W/HoRX5yztFWLVIofD77rOw1JUAsMG8i6wJzFz7a4TvAI/UYIe7ffG43XYQbuxnDTscFBSX7219J
+qEQF4yBKJOlg2jEUxJ7DJL3VR6pSce8oULa+GbvoDDBMqSSNZqV4+4l/GEqcbZizIM8DaQNNg0l1
+pSA/MVeBo1obVUYORg7jnlz/vsQHAx2eqdv00ucGLY3dsyKXNlvcRO7CnXUttRf87jWPbkAbrekw
+FgtSPniZ5KvaZueTziR6VQiHfa1FCV1BxOl7LFcpe+OZHFfeVOY0QhzA7C74idYUvEAlBDK8QB3k
+POiKZtTeEuTuhDDI9La=

@@ -1,100 +1,30 @@
-<form method="post" action="index.php?step=four" id="AddspinCopyfiles">
-    <h1>WritersBay App License Key</h1>
-    <p>Please provide the licence Key that you received when you bought the application. You can buy a licence as low as <b>$199</b> from <a href="https://www.writersbayapp.com" target="_blank">WritersBay App website</a> or alternatively if you obtained a license from a reseller, they should have already provided a license key to you.</p>
-    <table class="table-padded">
-        <tr>
-            <td width="200">
-                <label for="licensekey">License Key:</label>
-            </td>
-            <td width="350">
-                <input type="text" name="licensekey" value="" id="licensekey" value="" class="form-control" required>
-            </td>
-        </tr>
-    </table>
-    <br>
-    <h1>Cpanel Connection Details</h1>
-    <p>WritersBay App requires to connect to ssh server in order to perform command tasks. Cpanel details were provided to you by your hosting provider. <a href="https://www.writersbayapp.com" target="_blank">Get help on how to fill this section</a></p>
-    <table class="table-padded">
-        <tr>
-            <td width="200">
-                <label for="ipaddress">Ip address:</label>
-            </td>
-            <td width="200">
-                <input type="text" name="ipaddress" size="20" value="<?php echo $_SERVER['SERVER_ADDR']; ?>" class="form-control" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="cpanelusername">Cpanel Username:</label>
-            </td>
-            <td>
-                <input type="text" value="" name="cpanelusername" size="15" class="form-control" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="sshport">SSH Port:</label>
-            </td>
-            <td>
-                <input type="text" placeholder="22" value="" name="sshport" size="15" class="form-control" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="keypassword">Cpanel Password:</label>
-            </td>
-            <td>
-                <input type="password" name="keypassword" value="" size="20" value="" class="form-control" autocomplete="off" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="sitepath">Website path:</label>
-            </td>
-            <td>
-                <input type="text" name="sitepath" size="20" value="" class="form-control" placeholder="public_html" required>
-            </td>
-        </tr>
-    </table>
-    <br>
-    <h1>Database Connection Details</h1>
-    <p>WritersBay App requires a MySQL database. If you have not already created one, please do so now. <a href="https://www.writersbayapp.com" target="_blank">How to create a mysql database and user</a></p>
-    <table class="table-padded">
-        <tr>
-            <td width="200">
-                <label for="databaseHost">Database Host:</label>
-            </td>
-            <td width="200">
-                <input type="text" name="databaseHost" size="20" value="localhost" class="form-control" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="databaseUsername">Database Username:</label>
-            </td>
-            <td>
-                <input type="text" name="databaseUsername" id="databaseUsername" size="20" value="" class="form-control" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="databasePassword">Database Password:</label>
-            </td>
-            <td>
-                <input type="password" name="databasePassword" id="databasePassword" size="20" value="" class="form-control" autocomplete="off" required>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="databaseName">Database Name:</label>
-            </td>
-            <td>
-                <input type="text" name="databaseName" id="databaseName" size="20" value="" class="form-control" required>
-            </td>
-        </tr>
-    </table>
-    <br />
-    <p align="center">
-        <button type="submit" class="btn btn-lg btn-primary">Continue &raquo;</button>
-    </p>
-</form>
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+3aOwyQQHeCzoqq4=
