@@ -1,224 +1,167 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<h1>WritersBay App End User License Agreement</h1>
+<p>Please review the license terms before installing <b>WritersBay App platform</b>. By installing, copying, or otherwise using the software, you are agreeing to be bound by the terms of the <b>EULA</b>.</p>
+<p align="center">
+    <textarea class="form-control" style="font-family: Tahoma, sans-serif; font-size: 12px; color: #666666;" rows="25" readonly>
+        WRITERSBAY APP END USER LICENSE AGREEMENT 
+
+IMPORTANT: THIS SOFTWARE END-USER LICENSE AGREEMENT IS A LEGAL AGREEMENT BETWEEN YOU (EITHER INDIVIDUALLY OR COLLECTIVELY ON BEHALF OF YOUR BUSINESS ENTITY) AND MADAYER SYSTEMS LIMITED. READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.  AMONG OTHER PROVISIONS, IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS TERMINATION AND WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY INSTALLING AND USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.  IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE AND RETURN THE SOFTWARE TO YOUR WEBSITE OR PLACE OF PURCHASE FOR A FULL REFUND.  CONTINUED USE OF THIS SOFTWARE SIGNIFIES YOUR CONTINUED ACCEPTANCE OF THESE TERMS AND ANY FUTURE CHANGES TO THEM.
+
+
+1.	 Definitions.
+
+1.1	“Activated” has the meaning given in Section 2.4.2.
+
+1.2	“Agreement” means both the EULA and the Pricing and Term Agreement.
+
+1.3	“Applicable Law” means applicable international, federal, state or local laws, statutes, ordinances, regulations or court orders.
+
+1.4	“Beta Version” means any version of the Software released by WRITERSBAYAPP  for testing as determined by WRITERSBAYAPP  in its sole discretion.
+
+1.5	“Effective Date” has the meaning given in the Pricing and Term Agreement.
+
+1.6	 “EULA” means this End-User License Agreement.
+
+1.7	“Intellectual Property Rights” means trade secret rights, rights in know-how, moral rights, copyrights, patents, trademarks (and the goodwill represented thereby), and similar rights of any type under the laws of any governmental authority, domestic or foreign, including all applications for and registrations of any of the foregoing. 
+ 
+1.8	“Pricing and Term Agreement” means, as applicable, (a) the Pricing and Term Agreement entered into between You and WRITERSBAYAPP  in connection with the license of the Software which sets forth (among other things) pricing, term and payment provisions of this Agreement; (b) the pricing and payment provisions located at www.WRITERSBAYAPP.com (or such other URL as WRITERSBAYAPP  may designate from time to time); and/or (c) the pricing and payment provisions of any agreement between You and a WRITERSBAYAPP  reseller (or other third party authorized to grant You the license) pursuant to which You obtained a license to use the Software.  The Pricing and Term Agreement is hereby incorporated by reference and made a part of this Agreement as though fully set forth herein.
+
+1.9	“Software” means the WRITERSBAYAPP  software program(s) supplied by WRITERSBAYAPP  together with this Agreement, and corresponding documentation, source code, object code, Updates, user interfaces (including without limitation any web-based interfaces), printed materials and online or electronic documentation, excluding any third party components.
+
+1.10	“Term” means the term of this Agreement as set forth by the term of the license obtained by You (a) in connection with the Pricing and Term Agreement; or (b) from a WRITERSBAYAPP  reseller or other third party authorized to grant You the license.
+
+1.11	“Territory” means the world, except to the extent that use or distribution of the Software in certain countries or regions would cause either party to violate Section 9.13 (Export Controls).
+
+1.12	“Trademarks” means all domestic and international trademarks, service marks, logos, trade names, trade dress, including all goodwill represented by each of the foregoing, whether registered or unregistered, of WRITERSBAYAPP  including without limitation, WRITERSBAYAPP  and the WRITERSBAYAPP  logo. WRITERSBAYAPP  may add to the foregoing nonexclusive list of Trademarks in its sole discretion from time to time.
+
+1.13	“Third Party Users” and “Licensee” both mean, as applicable, (i) an authorized third-party end user of the Software who obtained a Software License from You, or (ii) You.
+
+1.14	“Updates” means any bug fixes, patches and other modifications of the Software provided to You by WRITERSBAYAPP.
+
+1.15	“Virtual Private Server” means a virtual server operating on a single physical server upon which multiple virtual servers may operate.  
+
+1.16	“You” or “Your” means or refers to the individual or entity entering into this Agreement with WRITERSBAYAPP, whether or not such terms are capitalized in this Agreement.
+
+1.17	 "WRITERS BAY APP" means MADAYER SYSTEMS LIMITED. 
+
+1.18	“WRITERSBAYAPP Anonymous Usage Data” means all data collected by WRITERSBAYAPP in connection with the use of the Software by You or any Third Party Users, including (a) the licensed or unlicensed status of the Software; (b) the source from which the license for the Software was obtained; and (c) information about the hardware upon which the Software is installed including (i) the public IP address, (ii) the operating system, (iii) web server version, (iv) the use of any virtualization technologies on such server, and (v) data utilized to prevent and combat various server attacks by hackers or their hardware, including but not limited to assaults such as spam attacks, brute force attacks, dictionary attacks, phishing, pharming, and the like. Additionally, “WRITERSBAYAPP Anonymous Usage Data” may also include information collected by WRITERSBAYAPP  from time to time concerning which features of the Software are most often used in order to improve and make adjustments to the Software, including, but not limited to the number of active modules, PHP version, mySQL version, installed PHP extensions, installed add-on modules, template utilization, and the number of active administrators, domains, servers, and active clients.
+
+1.19	“WRITERSBAYAPP Client Area” means WRITERSBAYAPP’s customer service, license management and Incident tracking system or such successor system as WRITERSBAYAPP  may designate from time to time which.  Only WRITERSBAYAPP  Licensees may access and use the WRITERSBAYAPP  Client Area.
+
+2.	 License.
+
+2.1	License Grant.  During the Term, solely within the Territory and subject to the terms and conditions of this Agreement, WRITERSBAYAPP  grants You a limited, non-exclusive, license to (a) install and use the Software and (b) make a single back-up copy of the registered Software for archival purposes.  The foregoing license is revocable, non-transferable, non-assignable and non-sub-licensable.
+
+2.2	License Transfers. The Software is licensed only to You. You may not rent, lease, sub-license, sell, assign, pledge, transfer or otherwise dispose of the Software, on a temporary or permanent basis, without the prior written consent of MADAYER SYSTEMS LIMITED. (For the avoidance of doubt, this license is only granted to one person or company and if more than one person or company wishes to use the Software, each user must purchase a separate license). 
+
+2.3	Restrictions of Use.  
+
+2.3.1	  Installation of Software Package.  The Software is licensed as a single product and none of the components in the Software may be separated for installation or use. 
+
+2.3.2	  Single Domain.  This Software is licensed to operate on only one domain.
+
+2.3.3	  Back-Up Copy.  All backup copies must be an exact copy of the original Software.  If You make a back-up copy of the Software, such copy must be in machine-readable form and You must reproduce on such copy all Intellectual Property Right notices and any other proprietary legends on the original copy of the Software.  
+
+2.3.4	  No Derivative Works; Reverse Engineering.  You may not alter, merge, modify, prepare derivative works based upon, adapt or translate the Software in any manner whatsoever.  Additionally, You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to any human-readable form, or use the Software to develop any application having the same primary functions as the Software. 
+ 
+2.4	Monitoring of Software.
+
+2.4.1	  Audit by WRITERSBAYAPP.  You agree that WRITERSBAYAPP  may audit Your use of the Software for compliance with this Agreement at any time, upon reasonable notice.  You agree to cooperate with WRITERSBAYAPP  and any auditors selected by WRITERSBAYAPP  to complete the audit including by providing access to any facilities in which the Software is used or stored, including without limitation the facilities which house the hardware upon which the Software is installed.  In the event that such audit reveals any use of the Software by You other than in compliance with the terms of this Agreement, You shall reimburse WRITERSBAYAPP  for all reasonable expenses related to such audit in addition to any other liabilities You may incur as a result of such noncompliance.  
+
+2.4.2	   Authentication System.  The Software contains technological measures that, working in conjunction with WRITERSBAYAPP  computer servers, are designed to prevent unlicensed or illegal use of the Software (collectively, the “Authentication System”).  You acknowledge and agree that such Authentication System allows WRITERSBAYAPP  to (among other things) (a) monitor use of the Software by You as set forth in Section 2.4.3 (WRITERSBAYAPP Anonymous Usage Data); (b) suspend or disable access to the Software in whole or in part in the event of a breach of this Agreement; and (c) terminate use of the Software upon the expiration or termination of this Agreement.  You agree not to thwart, interfere with, circumvent or block the operation of any aspect of the Authentication System, including any communications between the Software and WRITERSBAYAPP’s computer servers.  For the avoidance of doubt, the Software will not operate unless WRITERSBAYAPP  from time to time verifies the Software using the Authentication System which requires the exchange of information between You and WRITERSBAYAPP  over the Internet.
+
+2.4.3	  WRITERSBAYAPP  Anonymous Usage Data.  You agree that, without further notice to You, WRITERSBAYAPP  may use technological means to (a) monitor use of the Software as may be necessary to monitor for compliance with the terms of this Agreement; and (b) collect WRITERSBAYAPP  Anonymous Usage Data.  WRITERSBAYAPP  reserves the right to copy, access, store, disclose and use WRITERSBAYAPP  Usage Data indefinitely in its sole discretion; provided, however, that in the event that WRITERSBAYAPP  collects information concerning which features of the Software are most often used by You, WRITERSBAYAPP  will remove personally identifiable information (if any) from such data and copy, access, store, disclose and use such data solely for the purpose of improving the Software.
+
+2.5	 Data Protection. WRITERSBAYAPP  shall only use Personal Information it collects from You when You use the Software in accordance with WRITERSBAYAPP's Privacy Policy. You must not conduct any systematic or automated data collection activities (including, without limitation, processing (within the meaning of the Data Protection Act 1998 or Regulation 2016/679, the 'GDPR', as may be amended from time to time), scraping, data mining, data extraction and data harvesting) on or in relation to our Software without our express written consent.
+
+2.6	Updates.  The Software may automatically download and install updates from time to time from WRITERSBAYAPP. These updates are designed to improve, enhance and further develop the Software and may take the form of bug fixes, enhanced functions, new software modules, completely new versions and additional products and services offered through or from the Software.  You agree to receive such updates (and permit WRITERSBAYAPP  to deliver these to You) as a condition to Your use of the Software.
+
+2.7	License Exchange.  You agree that this Agreement shall supersede any prior End-User License Agreement and between You and WRITERSBAYAPP  applicable to the Software and that such prior End-User License Agreement is hereby terminated if (a) You previously purchased a license for the Software and are now purchasing a new license for the Software so that You may obtain additional technical support or updates during the Term of this Agreement; or (b) the copy of the Software You licensed with this Agreement is an upgrade to an earlier version of the Software.  You may not continue to use the earlier version of the Software or transfer it to another person or entity.
+
+3.	 Intellectual Property Rights.
+
+3.1	Ownership.  WRITERSBAYAPP  owns all right, title and interest, including all Intellectual Property Rights, in and to, (a) the Software; (b) the Trademarks; (c) WRITERSBAYAPP  Anonymous Usage Data; and (d) any and all Submissions (collectively, “WRITERSBAYAPP IP Rights”).
+
+3.2	Trademarks; Domain Names.  This Agreement does not authorize You to use the Trademarks.  If You wish to use the Trademarks, You must obtain a written license to use the Trademarks from WRITERSBAYAPP.  Additionally, You will not (a) assert any Intellectual Property Right in the Trademarks or in any element, derivation, adaptation, variation or name thereof; (b) contest the validity of any of the Trademarks; (c) contest WRITERSBAYAPP’s ownership of any of the Trademarks; or (d) in any jurisdiction, adopt, use, register, or apply for registration of, whether as a corporate name, trademark, service mark or other indication of origin, or as a domain name or sub-domain name, any trademarks, or any word, symbol or device, or any combination confusingly similar to, or which incorporates in whole or in part, any of the Trademarks.  
+
+3.3	No Implied License or Ownership.  Nothing in this Agreement or the performance thereof, or that might otherwise be implied by law, will operate to grant You any right, title or interest, implied or otherwise, in or to the WRITERSBAYAPP  IP Rights.
+
+3.4	No Contest.  You acknowledge and agree that the WRITERSBAYAPP  IP Rights are and shall remain the sole and exclusive property of WRITERSBAYAPP.  You agree that You shall never oppose, seek to cancel, or otherwise contest WRITERSBAYAPP’s ownership of the WRITERSBAYAPP  IP Rights or act in any manner that would or might conflict with or compromise WRITERSBAYAPP’s ownership of the WRITERSBAYAPP  IP Rights, or similarly affect the value of the WRITERSBAYAPP  IP Rights.  Whenever requested by WRITERSBAYAPP, You shall execute such documents as WRITERSBAYAPP  may deem necessary or appropriate to confirm, maintain or perfect WRITERSBAYAPP’s ownership of the WRITERSBAYAPP  IP Rights.  In the event WRITERSBAYAPP  is unable, after using its reasonable endeavours (which shall not require WRITERSBAYAPP  to incur any costs), to secure Your signature on any document or documents needed to apply for or to confirm, maintain or perfect WRITERSBAYAPP’s ownership of the WRITERSBAYAPP  IP Rights for any other reason whatsoever, You hereby irrevocably designate and appoint WRITERSBAYAPP  as Your duly authorized attorney-in-fact, to act for and on Your behalf and stead to execute and sign any document or documents and to do all other lawfully permitted acts to confirm, maintain or perfect WRITERSBAYAPP’s ownership of the WRITERSBAYAPP  IP Rights with the same legal force and effect as if executed by You.  In the event You become aware that any third party is, or may be, infringing the WRITERSBAYAPP  IP Rights, You agree to notify WRITERSBAYAPP  of such fact.
+
+3.5	Proprietary Notices.  Third party trademarks, trade names, product names and logos included in the Software may be the trademarks or registered trademarks of their respective owners.  You may not remove or alter any trademark, trade names, product names, logo, copyright or other proprietary notices, legends, symbols or labels in the Software.  
+
+3.6	Submissions.  With respect to any feedback, suggestions or ideas (“Submissions”) that You submit to WRITERSBAYAPP  concerning the Software, or any of WRITERSBAYAPP’s products or services, You agree that: (a) Your Submissions will automatically become the property of WRITERSBAYAPP, without any compensation to You; (b) WRITERSBAYAPP  may use or redistribute the Submissions for any purpose and in any way; (c) WRITERSBAYAPP  is not obligated to review any Submissions; and (d) WRITERSBAYAPP  is not obligated to keep any Submissions confidential. In addition, any illegal, lewd, abusive, profane or otherwise disturbing submissions by You shall constitute a material breach of this Agreement giving rise to WRITERSBAYAPP’s termination rights in Section 5.2.
+ 
+4.  Payments & Refunds.  
+
+4.1	Payments. As a condition of the license granted to You pursuant to this EULA, You shall pay WRITERSBAYAPP  the amount(s) set forth in Your Pricing and Term Agreement in accordance with the payment terms contained therein. 
+
+4.2	Refunds.  Refunds are only issued for software failure. Refunds are not issued for server failure/issues, lack of features or if Your hardware does not meet the Software Requirements. Refunds are determined on individual circumstances and only issued once WRITERSBAYAPP’s technical staff determines that WRITERSBAYAPP  has a fault causing it to not run on Your hardware. Installation charges are not refundable under any circumstances. Refunds are not available after 1 month from purchase date.
+
+5	 Term and Termination.
+
+5.1	Term.  This Agreement shall be effective on the Effective Date and shall automatically expire at the end of the Term.
+
+5.2	Termination.  WRITERSBAYAPP  may terminate this Agreement (a) in the event of Your breach of this Agreement (or a sublicensee’s breach of a provision of a Third Party User’s agreement relating to the Software or WRITERSBAYAPP) upon 30 days’ notice to You if such breach remains uncured after the expiration of the 30 day notice period;  (b) as set forth in Section 2.2; or (c) immediately without notice in the event of Your (or Your sublicensee’s material breach of this Agreement.  You acknowledge and agree that any breach by You (or any Third Party User) of the following provisions of the Agreement or any related provisions of a Third Party User’s agreement relating to WRITERSBAYAPP  or the Software shall each constitute a material breach: (i) use of the Software in excess of the license grant in Section 2.1 (License Grant); (ii) any purported or attempted assignment, transfer, sale or other disposition or delegation of the Software in violation of Section 2 (License) or Section 9.8 (Assignment); (iii) any violation of Section 2.3 (Restrictions of Use) including without limitation Section 2.3.4 (No Derivative Works; Reverse Engineering); (iv) any violation of Section 2.4 (Monitoring of Software) including without limitation any attempt, whether successful or not, to thwart, interfere with, circumvent or block the operation of any aspect of WRITERSBAYAPP’s monitoring of the Software; (v) any conduct inconsistent with the WRITERSBAYAPP  IP Rights as set forth in Section 3 (Intellectual Property Rights); (vi) any breach of Section 4 (Payment); and (vii) any breach of Your warranties under Section 6.1 (Mutual Warranties).  Additionally, a material breach by You of any agreement or contract between You and WRITERSBAYAPP, including without limitation a breach of WRITERSBAYAPP’s Trademark Usage Policy, any applicable EULA, or the Technical Support Agreement shall be deemed a material breach of this Agreement and shall give rise to WRITERSBAYAPP’s right to terminate as set forth in this Section 5.2.  The foregoing list of material breaches is a nonexclusive list.
+
+5.3  	Effect of Termination.  Upon the expiration or termination of this Agreement for any reason, (a) You must destroy all copies of the Software, including any back-up copy; (b) You must uninstall or delete the Software from the Licensed Server; and (c) WRITERSBAYAPP  may without notice and in its sole discretion terminate, suspend or disable access to the Software by You or any Third Party User.
+
+5.4	Survival.  Sections 1 (Definitions),  2.4 (Monitoring of Software), 3 (Intellectual Property Rights), 4 (Payments), 5 (Term and Termination), 6.3 (Disclaimer), 7 (Limitation on Liability), 8 (Indemnification) and 9 (Miscellaneous) shall survive the termination or expiration of this Agreement for any reason.
+
+6.  Warranties; Disclaimer.
+
+6.1	Mutual Warranties.  Each party hereto warrants to the other party that: (a) such party has the full right, power and authority to enter into this Agreement on behalf of itself and to undertake to perform the acts required of it hereunder; (b) the execution of this Agreement by such party, and the performance by such party of its obligations and duties to the extent set forth hereunder, do not and will not violate any agreement to which it is a party or by which it is otherwise bound; (c) when executed and delivered by such party, this Agreement will constitute the legal, valid and binding obligation of such party, enforceable against such party in accordance with its representations, warranties, terms and conditions; and (d) such party will comply with all Applicable Laws related to the use and installation of the Software and the performance of its obligations under this Agreement. 
+
+6.2	Limited Warranty.  WRITERSBAYAPP  warrants that, for a period of ninety days from the date of delivery of the Software, when used with a hardware and software configuration recommended by WRITERSBAYAPP, the Software will perform in substantial conformance with the documentation supplied with the Software.  The limited warranty in this Section 6.2 shall not apply (a) if Your version of the Software is a Beta Version; (b) if the Software has been altered in any way by a party other than WRITERSBAYAPP; (c) the Software’s third party components; or (d) if any failure or error arises out of use of the Software with anything other than a WRITERSBAYAPP  recommended hardware and software configuration. Any misuse, accident, abuse, modification or misapplication of the Software will void the limited warranty in this Section 6.2.
+
+6.3	Disclaimer.  EXCEPT AS SET FORTH IN THE LIMITED WARRANTY OF SECTION 6.2, THE SOFTWARE LICENSED HEREUNDER IS PROVIDED "AS IS" AND WRITERSBAYAPP  HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SOFTWARE, ITS THIRD PARTY COMPONENTS, AND ANY DATA ACCESSED THEREFROM, OR THE ACCURACY, TIMELINESS, COMPLETENESS, OR ADEQUACY OF THE SOFTWARE, ITS THIRD PARTY COMPONENTS, AND ANY DATA ACCESSED THEREFROM, INCLUDING THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  WRITERSBAYAPP  DOES NOT WARRANT THAT THE SOFTWARE OR ITS THIRD PARTY COMPONENTS ARE ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION.  IF THE SOFTWARE, ITS THIRD PARTY COMPONENTS, OR ANY DATA ACCESSED THEREFROM IS DEFECTIVE, YOU ASSUME THE SOLE RESPONSIBILITY FOR THE ENTIRE COST OF ALL REPAIR OR INJURY OF ANY KIND, EVEN IF WRITERSBAYAPP  HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DEFECTS OR DAMAGES.  
+
+6.3.1	IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SOFTWARE, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF DELIVERY OR THE MINIMUM ALLOWED DURATION UNDER SUCH APPLICABLE LAW. 
+
+6.3.2	NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY WRITERSBAYAPP, ITS AFFILIATES, LICENSEES, DEALERS, SUB-LICENSORS, AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF ANY WARRANTY PROVIDED IN SECTION 6.2. 
+
+6.3.3	SOME JURISDICTIONS DO NOT ALLOW RESTRICTIONS ON IMPLIED WARRANTIES SO SOME OF THESE LIMITATIONS MAY NOT APPLY TO YOU.
+
+7.	 Limitation of Liability.
+
+7.1	Lost Profits; Consequential Damages.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WRITERSBAYAPP  WILL NOT BE LIABLE FOR ANY LOST PROFITS, COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, BUSINESS INTERRUPTION, OR FOR ANY OTHER INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED, AND UNDER WHATEVER CAUSE OF ACTION OR THEORY OF LIABILITY BROUGHT (INCLUDING, WITHOUT LIMITATION, UNDER ANY CONTRACT, NEGLIGENCE OR OTHER TORT THEORY OF LIABILITY) EVEN IF WRITERSBAYAPP  HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+
+7.2	Total Cumulative Liability; Exclusive Remedy.  EXCEPT FOR AMOUNTS OWED BY YOU TO WRITERSBAYAPP  UNDER SECTION 4, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WRITERSBAYAPP’S AGGREGATE LIABILITY FOR DIRECT DAMAGES, UNDER THIS AGREEMENT (CUMULATIVELY) SHALL BE LIMITED TO THE TOTAL FEES COLLECTED BY WRITERSBAYAPP  UNDER THIS AGREEMENT; PROVIDED, HOWEVER, THAT FOR ANY BREACH OF THE LIMITED WARRANTY OF SECTION 6.2 YOUR SOLE AND EXCLUSIVE REMEDY AND WRITERSBAYAPP’S ENTIRE LIABILITY SHALL BE FOR WRITERSBAYAPP, AT WRITERSBAYAPP’S ELECTION AND WITHIN ITS SOLE DISCRETION, TO USE ITS COMMERCIALLY REASONABLE ENDEAVOURS TO (A) SUPPLY YOU WITH A REPLACEMENT COPY OF THE SOFTWARE THAT SUBSTANTIALLY CONFORMS TO THE DOCUMENTATION INCLUDED WITH THE SOFTWARE; OR (B) REFUND TO YOU YOUR LICENSE FEE FOR THE SOFTWARE; PROVIDED THAT YOU REPORT ANY NON-COMPLIANCE WITH THE LIMITED WARRANTY OF SECTION 6.2 IN WRITING TO WRITERSBAYAPP  NO MORE THAN NINETY (90) DAYS FOLLOWING DELIVERY OF THE SOFTWARE TO YOU. 
+ 
+8.	 Indemnification.  You shall indemnify, defend and hold harmless WRITERSBAYAPP  and its directors, officers, staff, employees agents, and affiliates and their respective successors, heirs and assigns and affiliates (and their its directors, officers, staff, employees and agents and their respective successors, heirs and assigns) (collectively, the “WRITERSBAYAPP Parties”) from and against any liability, damage, loss or expense (including reasonable lawyers’ fees and expenses of litigation) incurred by or imposed upon the WRITERSBAYAPP  Parties or any one of them in connection with any claims, suits, actions, demands or judgments (“Claims”) related directly or indirectly to or arising out of (a) a breach of Your representations, warranties or obligations under this Agreement; (b) in the event that You sublicense the right to use the Software to any Third Party Users pursuant to Section 2.2 (Sublicensing), (c) a breach of a Third Party User’s representations, warranties or obligations under any provisions in a Third Party User’s agreement relating to WRITERSBAYAPP  or the Software; and (d) any Claims based upon or arising from any allegation that a Third Party User was harmed due to any termination, suspension or disabling of such user’s access to the Software by WRITERSBAYAPP  pursuant to the terms and conditions of this Agreement; provided, however, that in any such case WRITERSBAYAPP  or its affiliates, as applicable, (x) provide You with prompt notice of any such claim; (y) permit You to assume and control the defence of such action upon Your written notice to WRITERSBAYAPP  of Your intention to indemnify; and (z) upon Your written request, and at no expense to WRITERSBAYAPP  or its affiliates, provide to You all available information and assistance reasonably necessary for You to defend such claim.  You will not enter into any settlement or compromise of any such claim, which settlement or compromise would result in any liability to the WRITERSBAYAPP  Parties, without WRITERSBAYAPP’s prior written consent, which will not unreasonably be withheld.  You will pay any and all costs, damages, and expenses, including, but not limited to, reasonable lawyers’ fees and costs awarded against or otherwise incurred by WRITERSBAYAPP  or its affiliates in connection with or arising from any such claim. 
+
+9.	 Miscellaneous.  
+
+9.1	Force Majeure.  No party will be liable for any failure or delay in performance of any of its obligations hereunder if such delay is due to acts of God, fires, flood, storm, explosions, earthquakes, general Internet outages, acts of war or terrorism, riots, insurrection or intervention of any government or authority; provided, however, that any such delay or failure will be remedied by such party as soon as reasonably possible.  Upon the occurrence of a force majeure event, the party unable to perform will, if and as soon as possible, provide written notice to the other parties indicating that a force majeure event occurred and detailing how such force majeure event impacts the performance of its obligations.  
+
+9.2	Independent Contractors.  It is the intention of the parties that WRITERSBAYAPP  and You are, and will be deemed to be, independent contractors with respect to the subject matter of this Agreement, and nothing contained in this Agreement will be deemed or construed in any manner whatsoever as creating any partnership, joint venture, employment, agency, fiduciary or other similar relationship between WRITERSBAYAPP  and You.
+
+9.3	Choice of Law; Venue; Jurisdiction.  This Agreement and any disputes or claims arising out of or in connection with its subject matter or formation (including non-contractual disputes and claims) are governed by and construed in accordance with the laws of England and Wales. The parties irrevocably agree that the courts of England have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes and claims).  
+
+9.4	Entire Agreement.  This Agreement, together with all Exhibits hereto, represents the entire agreement between the parties with respect to the subject matter hereof and thereof and will supersede all prior agreements and communications of the parties, oral or written.  
+
+9.5	Basis of Bargain.  Section 6.2 (Limited Warranty), Section 7 (Limitations on Liability; Exclusive Remedies) and Section 8 (Indemnification) are fundamental elements of the basis of the agreement between WRITERSBAYAPP  and You and shall inure to the benefit of WRITERSBAYAPP.  WRITERSBAYAPP  would not be able to provide the Software on an economic basis without such limitations.
+
+9.6	Severability.  If any provision of this Agreement is held to be invalid, illegal or unenforceable for any reason, such invalidity, illegality or unenforceability will not affect any other provisions of this Agreement, and this Agreement will be construed as if such invalid, illegal or unenforceable provision had never been contained herein.
+
+9.7	Amendment or Modification.  This Agreement is subject to change without prior notice from WRITERSBAYAPP. You shall be deemed to have accepted any changes or modifications by Your continuing use of the Software. Additionally, this Agreement may not be amended, modified, or supplemented by You in any manner, except by an instrument in writing signed and agreed to by WRITERSBAYAPP.  
+
+9.8	Assignment.  This Agreement may not be assigned, transferred, delegated, sold or otherwise disposed of, including without limitation by operation of law, other than as expressly set forth in this Section 9.8.  This Agreement may be assigned, transferred, delegated, sold or otherwise disposed of in its entirety: (a) by WRITERSBAYAPP  in its sole discretion; (b) by You with the prior written consent of WRITERSBAYAPP; and (c) as set forth in Section 2.2 (License Transfers).  In addition, WRITERSBAYAPP  may delegate its performance under this Agreement in whole or in part to one or more affiliates, provided that WRITERSBAYAPP  will remain liable and responsible for any performance or obligation so delegated.  A party’s permitted successors or assignees must agree as a condition precedent to any assignment, transfer or delegation to fully perform all applicable terms and conditions of this Agreement.  No party may assign this Agreement to any entity that lacks sufficient assets and resources to continue to perform, to contractually required standards, all assigned obligations for the remainder of the Term.  This Agreement will be binding upon and will inure to the benefit of a party’s permitted successors and assigns.  Any purported assignment, transfer, delegation, sale or other disposition in contravention of this Section 9.8, including without limitation by operation of law, is null and void.
+
+9.9	Waiver.  Any of the provisions of this Agreement may be waived by the party entitled to the benefit thereof.  No party will be deemed, by any act or omission, to have waived any of its rights or remedies hereunder unless such waiver is in writing and signed by the waiving party, and then only to the extent specifically set forth in such writing.  A waiver with reference to one event will not be construed as continuing or as a bar to or waiver of any right or remedy as to a subsequent event.
+
+9.10	Remedies Cumulative.  Except as expressly set forth herein, no remedy conferred upon the parties by this Agreement is intended to be exclusive of any other remedy, and each and every such remedy will be cumulative and will be in addition to any other remedy given hereunder or now or hereafter existing at law or in equity.
+
+9.11	No Third Party Beneficiaries.  Except for the provisions of Clause 8 which are intended to be enforceable by the Persons respectively referred to therein (each, a "Beneficiary") by virtue of the Contracts (Rights of Third Parties) Act 1999, the Parties do not intend that any term of this Agreement should be enforceable, by virtue of the Contracts (Rights of Third Parties) Act 1999, by any person who is not a party to this Agreement (including without limitation any Third Party Users). Notwithstanding the previous sentence, this Agreement may be terminated or varied in any way and at any time by the Parties without the consent of any Beneficiary.
+
+9.12	Notices.  All notices or questions relating to this Agreement shall be directed to: WRITERSBAYAPP, Inc., Attn: Legal Department, Suite 17, Linford Forum, Rockingham Drive, Linford Wood, Milton Keynes, MK14 6LY, United Kingdom. Any notice required to be given under this Agreement shall be deemed given by WRITERSBAYAPP  when sent to You by email, telephone, fax, or mail to the contact information supplied by You to WRITERSBAYAPP  in the Pricing and Term Agreement.  You may update such information from time to time upon written notice to through the WMCS Client Area. Any failure by You to provide WRITERSBAYAPP  with updated contact information will not invalidate the effectiveness of any notice sent by WRITERSBAYAPP  to the contact information previously supplied by You.
+
+9.13	Export Controls.  The parties agree to comply fully with all Applicable Laws, or of any foreign government to or from where a party is shipping, to in connection with the import, export or re-export, directly or indirectly, of the Software mentioned in this Agreement.
+
+9.14	Time-Limited Claims.  Regardless of any Applicable Law to the contrary, You agree that any claim or cause of action arising out of or related to the Software or this Agreement, must be filed within one year after such claim or cause of action arose or be forever barred.
+
+                        </textarea>
+</p>
+<p align="center">
+    <a href="?step=two" class="btn btn-success btn-lg" id="btnEulaAgree">I AGREE</a>
+    <a href="/install" class="btn btn-default btn-lg" id="btnEulaDisagree">I DISAGREE</a>
+</p>

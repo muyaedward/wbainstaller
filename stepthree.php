@@ -1,30 +1,100 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-RT2I
+<form method="post" action="index.php?step=four" id="AddspinCopyfiles">
+    <h1>WritersBay App License Key</h1>
+    <p>Please provide the licence Key that you received when you bought the application. You can buy a licence as low as <b>$199</b> from <a href="https://www.writersbayapp.com" target="_blank">WritersBay App website</a> or alternatively if you obtained a license from a reseller, they should have already provided a license key to you.</p>
+    <table class="table-padded">
+        <tr>
+            <td width="200">
+                <label for="licensekey">License Key:</label>
+            </td>
+            <td width="350">
+                <input type="text" name="licensekey" value="" id="licensekey" value="" class="form-control" required>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <h1>Cpanel Connection Details</h1>
+    <p>WritersBay App requires to connect to ssh server in order to perform command tasks. Cpanel details were provided to you by your hosting provider. <a href="https://www.writersbayapp.com" target="_blank">Get help on how to fill this section</a></p>
+    <table class="table-padded">
+        <tr>
+            <td width="200">
+                <label for="ipaddress">Ip address:</label>
+            </td>
+            <td width="200">
+                <input type="text" name="ipaddress" size="20" value="<?php echo $_SERVER['SERVER_ADDR']; ?>" class="form-control" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="cpanelusername">Cpanel Username:</label>
+            </td>
+            <td>
+                <input type="text" value="" name="cpanelusername" size="15" class="form-control" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="sshport">SSH Port:</label>
+            </td>
+            <td>
+                <input type="text" placeholder="22" value="" name="sshport" size="15" class="form-control" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="keypassword">Cpanel Password:</label>
+            </td>
+            <td>
+                <input type="password" name="keypassword" value="" size="20" value="" class="form-control" autocomplete="off" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="sitepath">Website path:</label>
+            </td>
+            <td>
+                <input type="text" name="sitepath" size="20" value="" class="form-control" placeholder="public_html" required>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <h1>Database Connection Details</h1>
+    <p>WritersBay App requires a MySQL database. If you have not already created one, please do so now. <a href="https://www.writersbayapp.com" target="_blank">How to create a mysql database and user</a></p>
+    <table class="table-padded">
+        <tr>
+            <td width="200">
+                <label for="databaseHost">Database Host:</label>
+            </td>
+            <td width="200">
+                <input type="text" name="databaseHost" size="20" value="localhost" class="form-control" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="databaseUsername">Database Username:</label>
+            </td>
+            <td>
+                <input type="text" name="databaseUsername" id="databaseUsername" size="20" value="" class="form-control" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="databasePassword">Database Password:</label>
+            </td>
+            <td>
+                <input type="password" name="databasePassword" id="databasePassword" size="20" value="" class="form-control" autocomplete="off" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="databaseName">Database Name:</label>
+            </td>
+            <td>
+                <input type="text" name="databaseName" id="databaseName" size="20" value="" class="form-control" required>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <p align="center">
+        <button type="submit" class="btn btn-lg btn-primary">Continue &raquo;</button>
+    </p>
+</form>
